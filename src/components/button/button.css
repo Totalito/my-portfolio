@@ -8,6 +8,7 @@
   }
   
   .button-container .btn {
+    border-radius: 20px;
     height: 80px;
     width: 200px;
     display: flex;

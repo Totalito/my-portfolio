@@ -4,10 +4,10 @@ function Buttons() {
   return (
     <div className="container button-container">
       <a href="#about" className="btn pri">
-        Aprende más
+        Más sobre mi
       </a>
       <a href="#contact" className="btn sec">
-        Ponerse en contacto
+        Contacto
       </a>
     </div>
   );
