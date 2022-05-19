@@ -219,7 +219,7 @@
     }
   }
   
-  @media (max-width: 420px) {
+  @media (max-width: 556px) {
     .members-container {
       position: relative;
       display: flex;
