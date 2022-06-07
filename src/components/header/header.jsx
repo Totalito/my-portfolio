@@ -9,7 +9,7 @@ function Header() {
         </p>
         Gonzalo
       </h3>
-      <h2>Full-Stack Web Developer</h2>
+      <h2>Full-Stack Junior Web Developer</h2>
     </div>
   );
 }

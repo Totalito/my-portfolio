@@ -136,6 +136,7 @@
   .scroll-down {
     transform: rotate(90deg);
     position: absolute;
+    top: 35%;
     right: 0;
     display: flex;
     justify-content: center;
@@ -208,7 +209,6 @@
       transition: 0.2s ease;
       opacity: 0;
     }
-  
     .home-container img {
       position: absolute;
       height: 250px;
@@ -245,7 +245,7 @@
     }
   }
   
-  @media (max-width: 500px) {
+  @media (max-width: 555px) {
     .home-container {
       position: relative;
       min-height: 100vh;

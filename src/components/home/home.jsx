@@ -27,9 +27,9 @@ function Home() {
       <h2>
         <span>Sobre mi</span> <br />
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis id
-          quos deserunt, maxime sint sunt tempore quidem ad praesentium itaque,
-          aspernatur, magnam culpa iste adipisci?
+          Estudie 3 años Diseño Industrial, una carrera facinante, luego encontre este maravilloso mundo de la programacion, empezando a estudiar
+          html, pase a css, y posteriormente a javascrip, hice varias paginas, y termine adentrandome el el framework de react, posteriormente
+          pase al back-end pasando por mysql, y ahora estoy en la creacion de apis.
         </p>
       </h2>
 
